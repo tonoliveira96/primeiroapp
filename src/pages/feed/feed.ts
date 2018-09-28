@@ -19,7 +19,6 @@ import { MovieProvider } from '../../providers/movie/movie';
 })
 
 
-
 export class FeedPage {
   public lista_filmes= new Array <any>();
 	public nomeUsuario: string ="Chales França";

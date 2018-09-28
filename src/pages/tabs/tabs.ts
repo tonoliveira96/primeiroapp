@@ -11,7 +11,8 @@ import { FeedPage } from '../feed/feed';
 export class TabsPage {
 
   tab1Root = HomePage;
-  tab4Root = FeedPage;
+  tab2Root = FeedPage;
+  tab4Root = AboutPage;
 
   constructor() {
 
